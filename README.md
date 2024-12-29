@@ -1,1 +1,1 @@
-# snowflake-projects
+# Data Load from UI in SnowFlake
